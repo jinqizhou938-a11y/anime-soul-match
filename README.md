@@ -4,7 +4,7 @@
 
 一个动漫人格匹配网站：回答 18 道关于爱情、友情、困顿、热爱、美好与生死的人生命题，从 200 位知名日漫角色中，找到与你灵魂最相近的那一位。
 
-**在线体验**：https://4m3wnr22abgu0.doubaoapps.com/app/app_17f2rhhc6q7
+**在线体验**：https://jinqizhou938-a11y.github.io/anime-soul-match/
 
 ---
 
